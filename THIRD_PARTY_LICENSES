@@ -1,8 +1,8 @@
 Peter Jäckel's implementation
 
-Applies to jackel.h and jackel.cpp. These files retain the following original
-terms and are excluded from the MIT license for this repository's supporting
-code and documentation.
+Applies to src/jackel.h and src/jackel.cpp. These files retain the following
+original terms and are excluded from the MIT license for this repository's
+supporting code and documentation.
 
 Copyright © 2013-2014 Peter Jäckel.
 

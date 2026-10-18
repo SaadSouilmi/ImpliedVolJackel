@@ -3,12 +3,12 @@
 #include <random>
 #include <vector>
 
-#include "base.h"
-#include "jackel.h"
-#include "profile.h"
+#include "src/base.h"
+#include "src/jackel.h"
+#include "src/profile.h"
 
-#include "jackel.cpp"
-#include "profile.cpp"
+#include "src/jackel.cpp"
+#include "src/profile.cpp"
 
 int main()
 {
